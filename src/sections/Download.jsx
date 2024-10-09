@@ -12,7 +12,7 @@ const Download = () => {
         <div className="container">
           <div className="flex items-center">
             <div className="relative mr-6 flex-540 max-xl:flex-280 max-lg:flex256 max-md:flex-100">
-              <div className="mb-10 text-[39px] font-semibold">
+              <div className="mb-10 text-[40px] font-semibold">
                KOOP   
               </div>
 
